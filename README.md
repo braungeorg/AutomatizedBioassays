@@ -1,5 +1,5 @@
 # Workflows for automatic evaluation of bioassays (AutomatizedBioassayScreening)
-Details on how to use provided R scripts which can be used for the analysis of cell-based bioassay raw data for a variety of high-throughput assays in a 384-well plate format. Description of the files needed. 
+Details on how to use provided R scripts which can be used for the analysis of cell-based bioassay raw data for a variety of high-throughput assays in a 384-well plate format.
 
 ---
 
