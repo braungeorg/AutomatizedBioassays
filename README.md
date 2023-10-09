@@ -67,7 +67,7 @@ The environment has a distinct hierarchy of folders and files.
 
 # Data evaluation
 
-Add the respective R script designed for the assay and run all lines. The script will generate a "Plots" folder within the `bioassay` folder and a `Summary_Assay_ID_filled.xlsx` will be generated showin plate coordinates and benchmark concentrations of all selected samples
+Add the respective R script designed for the assay and run all lines. The script will generate a "Plots" folder within the `bioassay` folder and a `Summary_Assay_ID_filled.xlsx` will be generated showing plate coordinates and benchmark concentrations of all selected samples
 
 # Data interpretation
 
