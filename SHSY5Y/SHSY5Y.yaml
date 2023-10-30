@@ -1,0 +1,16 @@
+Reference: Narciclasine
+combine_repeats: TRUE
+which_plots: all
+use_letters_for_subplots: TRUE
+cytotoxicity_cutoff: FALSE
+linear_cutoff_effect: 35
+linear_cutoff_cytotoxicity: 35
+log_concentration_unexposed_controls: -12
+min_y_axis_limits_effects: -10
+min_y_axis_limits_cytotoxicity: -10
+linear_y_axis_limits_effects: 40
+linear_y_axis_limits_cytotoxicity: 40
+log_y_axis_limits_effects: 110
+log_y_axis_limits_cytotoxicity: 110
+Summary_model_effects: log
+Summary_model_cytotoxicity: log
